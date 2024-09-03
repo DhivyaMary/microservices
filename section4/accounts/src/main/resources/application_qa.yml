@@ -1,0 +1,18 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.O"
+
+
+accounts:
+  message: "Welcome to QA API's"
+  contactDetails:
+    name: "Ram"
+    email: "Ram@gmail.com"
+  onCallSupport:
+    -(234) 6343-1234
+    -(534) 3232-5678
